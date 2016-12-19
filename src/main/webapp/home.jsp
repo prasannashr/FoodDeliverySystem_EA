@@ -5,7 +5,7 @@
 <%@ taglib uri="http://www.springframework.org/security/tags" prefix="sec" %>
 <%@ taglib uri="http://www.springframework.org/tags/form" prefix="form"%>
 
-<h3>Foods</h3>
+<h3>FoodsS</h3>
 <center>
 	<table>
 		<c:forEach items="${items}" var="row" varStatus="rowCounter">

@@ -3,7 +3,7 @@
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@ taglib uri="http://www.springframework.org/security/tags" prefix="sec" %>
 <div>
-	<h2>Food Delivery System</h2>
+	<h2>Food Delivery System EA</h2>
 </div>
 <div>
 	<%@ include file="menu2.jsp" %>
